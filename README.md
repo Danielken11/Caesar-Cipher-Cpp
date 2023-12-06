@@ -1,28 +1,29 @@
 # Caesar-Cipher-C-
 C++ Implementation of Caesar Cipher: //Encryption ,Decryption and Brute Force
 
+![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/2c57f0c3-e065-464e-8f35-8113bfd2af2c)
+
 Encryption:
 
-![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/eeae83ae-1aea-4d83-b7b1-c4ce1b08c086)
-![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/7b6acbce-0b76-4f10-9696-b7eac04bc523)
-
+![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/c676c932-8446-4158-8946-9acfe2e04d18)
 
 Decryiption:
 
-![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/7ec994f7-f235-4901-aec8-2ba2a0620fa2)
+![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/ebc0000a-30b7-4bb4-83c3-2d59f2dcfe48)
+![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/084c2b72-8907-40a4-aadd-5d8eb0c25cc0)
+
+Brute Force:
+![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/a109adbf-f676-42d4-a604-f55d3cf28621)
 
 Second Version:
 
 Improved with double key method for caesar cipher,the second key being a word with a lenght of minimum 7 characters that is attached in the latin alphabeth used
 for encryption
 
-![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/7078470f-d5c2-4db1-9514-9626861cb7b4)
+![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/bb5fa3a5-123b-4ec2-926e-746609d07434)
+![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/0d1a0117-dbe7-4016-89ea-a7a7459eba25)
 
-![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/95ac9f71-b753-47a6-b7e1-12989ac1e61d)
 
-![image](https://github.com/Danielken11/Caesar-Cipher-Cpp/assets/105623990/4a56d951-70d1-4b9f-af38-27d71fd41794)
-
-The language used for console interaction is romanian ,the language will be changed in the future version with english!!!
 
 
 
